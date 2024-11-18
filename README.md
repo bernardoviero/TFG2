@@ -10,13 +10,16 @@ Este documento fornece um guia passo a passo para instalar e executar o sistema 
 Antes de iniciar, certifique-se de ter os seguintes itens instalados em seu sistema:
 
 - **Unity**: Versão recomendada 2020.3 LTS ou superior.
-- **Jacamo**: Framework para agentes inteligentes.
-- **Java Development Kit (JDK)**: Versão 8 ou superior.
+- **Jacamo**: Framework para agentes inteligentes. (https://jacamo-lang.github.io/jacamo/install.html)
+- **Java Development Kit (JDK)**: Versão 17.
 - **Maven**: Para gerenciamento de dependências do Jacamo.
 
 ## Passo 1: Clonar o Repositório
 
 Clone o repositório do GitHub para obter os arquivos necessários:
+```bash
+git clone https://github.com/bernardoviero/TFG2.git
+```
 
 ## Passo 2: Configurar o Ambiente Java
 
