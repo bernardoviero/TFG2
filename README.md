@@ -1,2 +1,2 @@
-# TFG2
-Trabalho Final de Graduação II
+# TFG
+Trabalho final de graduação - Orientado pelo Dr. Alexandre de O. Zamberlan

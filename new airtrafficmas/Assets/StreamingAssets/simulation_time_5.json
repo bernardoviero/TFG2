@@ -1,0 +1,13 @@
+{
+    "tempo_atual": 5,  
+    "pousos_restantes": 1, 
+    "avioes_pousados": ["plane2","plane1", "plane4", "plane5"], 
+    "avioes_para_decolar": [], 
+    "avioes_no_ar": [
+        "plane3"
+    ],
+    "aviao_para_pousar_nesse_tempo": "plane3",
+    "aviao_pousando_vai_decolar": 0,
+    "aviao_para_decolar_nesse_tempo": null,
+    "avioes_chegando_no_ceu": []
+}
